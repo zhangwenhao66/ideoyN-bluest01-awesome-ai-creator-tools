@@ -39,6 +39,7 @@ The list focuses on practical tools that help people record, transcribe, edit, s
 ## Podcast and video creation
 
 - [Descript](https://www.descript.com/) - Edit audio and video by editing a transcript.
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 - [Riverside](https://riverside.fm/) - Remote recording platform for podcasts, interviews, and video.
 - [OBS Studio](https://obsproject.com/) - Free and open-source software for recording and live streaming.
 - [CapCut](https://www.capcut.com/) - Video editor with captions, templates, and AI-assisted editing.
